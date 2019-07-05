@@ -1,0 +1,51 @@
+<LEDString>
+    <Name>String 1</Name>
+    <Universe>0</Universe>
+    <ChannelStart>0</ChannelStart>
+    <NumPixels>500</NumPixels>
+    <StartPostion>
+        <X>0.000000000</X>
+        <Y>0.000000000</Y>
+        <Z>1.000000000</Z>
+    </StartPostion>
+    <EndPostion>
+        <X>0.000000000</X>
+        <Y>0.000000000</Y>
+        <Z>0.000000000</Z>
+    </EndPostion>
+    <WattsPerPixel>0.349999994</WattsPerPixel>
+</LEDString>
+<LEDString>
+    <Name>String</Name>
+    <Universe>10</Universe>
+    <ChannelStart>0</ChannelStart>
+    <NumPixels>16</NumPixels>
+    <StartPostion>
+        <X>0.000000000</X>
+        <Y>0.000000000</Y>
+        <Z>0.000000000</Z>
+    </StartPostion>
+    <EndPostion>
+        <X>5.000000000</X>
+        <Y>0.000000000</Y>
+        <Z>0.000000000</Z>
+    </EndPostion>
+    <WattsPerPixel>20.000000000</WattsPerPixel>
+</LEDString>
+<LEDString>
+    <Name>String</Name>
+    <Universe>20</Universe>
+    <ChannelStart>0</ChannelStart>
+    <NumPixels>50</NumPixels>
+    <StartPostion>
+        <X>0.000000000</X>
+        <Y>0.000000000</Y>
+        <Z>0.000000000</Z>
+    </StartPostion>
+    <EndPostion>
+        <X>0.000000000</X>
+        <Y>2.000000000</Y>
+        <Z>1.000000000</Z>
+    </EndPostion>
+    <WattsPerPixel>3.000000000</WattsPerPixel>
+</LEDString>
